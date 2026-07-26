@@ -19,14 +19,6 @@
 
 ---
 
-## 🛠️ Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,git,github,vscode,visualstudio,html,css,js" />
-</p>
-
----
-
 ## 📊 Estatísticas
 
 <p align="center">
