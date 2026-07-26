@@ -63,11 +63,13 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
 
 Github Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=felipeBribeiro&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=felipeBribeiro&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 ---
 
+Github Streak
 <p align="center">
   <img src="https://raw.githubusercontent.com/felipeBribeiro/felipeBribeiro/main/profile/streak.svg" alt="GitHub Streak" />
 </p>
