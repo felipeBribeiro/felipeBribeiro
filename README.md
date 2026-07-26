@@ -1,5 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=7600FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Felipe!+%F0%9F%91%8B+;%F0%9F%98%84Seja+Bem+Vindo!%F0%9F%98%84)](https://git.io/typing-svg)
 
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
+
+
+---
 <h1 align="center">Olá! 👋 Eu sou o Felipe </h1>
 
 <p align="center">
@@ -9,6 +17,7 @@
 </p>
 
 ---
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdrZm5oandjYWpxeGt5dnBzYnVxcWRwbTB2czhhdHVwcmJ2eDF1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Pixel Art Cafe e PC" />
 </div>
@@ -51,6 +60,12 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
 </p>
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
+
+---
 <p align="center">
 ⭐ Obrigado por visitar meu perfil!
 </p>
