@@ -58,6 +58,22 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/felipeBribeiro/felipeBribeiro/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+---
+
+Github Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=felipeBribeiro&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=felipeBribeiro&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
