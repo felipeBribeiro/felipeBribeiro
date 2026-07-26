@@ -71,7 +71,9 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/felipeBribeiro/felipeBribeiro/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=footer"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
