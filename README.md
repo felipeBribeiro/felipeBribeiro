@@ -9,7 +9,11 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdrZm5oandjYWpxeGt5dnBzYnVxcWRwbTB2czhhdHVwcmJ2eDF1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Pixel Art Cafe e PC" />
+</div>
 
+---
 ## 👨‍💻 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI e utilizo este GitHub para compartilhar minha evolução na programação.
