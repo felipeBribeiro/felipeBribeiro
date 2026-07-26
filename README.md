@@ -36,7 +36,15 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
 
 ---
 
+## 🐍 Gráfico de contribuições
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeBribeiro/felipeBribeiro/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeBribeiro/felipeBribeiro/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/felipeBribeiro/felipeBribeiro/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 ---
 
 <p align="center">
