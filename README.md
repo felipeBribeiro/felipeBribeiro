@@ -8,8 +8,15 @@
 
 
 ---
+
+<p>
+  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/94cc4424-9251-42ae-8782-92465d0a0043" width="100">
+</p>
+
+
 <h1 align="center">Olá! 👋 Eu sou o Felipe </h1>
 
+---
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas (SENAI)<br>
   💻 Apaixonado por tecnologia e programação<br>
