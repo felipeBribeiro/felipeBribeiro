@@ -1,9 +1,10 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=8A2BE2"/>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=6D10AD&width=435&lines=Aluno+-+Senai+%F0%9F%8E%93;Seja+bem+vindo!+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D10AD&height=120&section=header"/>
-</p>
 
 ---
 
