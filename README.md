@@ -1,4 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=6D10AD&width=435&lines=Aluno+-+Senai+%F0%9F%8E%93;Seja+bem+vindo!+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D10AD&height=120&section=header"/>
+</p>
+
 ---
 
 <p align="center">
@@ -16,6 +22,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Felipe </h1>
 
 ---
+
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas (SENAI)<br>
   💻 Apaixonado por tecnologia e programação<br>
@@ -67,7 +74,7 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
 
 ---
 
-Github Stats
+## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=felipeBribeiro&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
@@ -75,7 +82,7 @@ Github Stats
 
 ---
 
-Github Streak
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://raw.githubusercontent.com/felipeBribeiro/felipeBribeiro/main/profile/streak.svg" alt="GitHub Streak" />
 </p>
