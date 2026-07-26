@@ -69,10 +69,9 @@ Github Stats
 ---
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=felipeBribeiro&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-  </a>
+  <img src="https://raw.githubusercontent.com/felipeBribeiro/felipeBribeiro/main/profile/streak.svg" alt="GitHub Streak" />
 </p>
+
 
 ---
 
