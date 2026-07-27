@@ -37,6 +37,7 @@
 </div>
 
 ---
+
 ## 👨‍💻 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI e utilizo este GitHub para compartilhar minha evolução na programação.
@@ -75,6 +76,7 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E52521,100:049CD8&height=120&section=footer"/>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -99,6 +101,7 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
 
 
 ---
+
 <p align="center">
 ⭐ Obrigado por visitar meu perfil!
 </p>
