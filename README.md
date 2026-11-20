@@ -56,7 +56,13 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
 ---
 ## 🏆 Certificações
 
-- **Linux Unhatched** — Cisco Networking Academy
+
+<p align="center">
+  <a href="https://www.netacad.com/recognitions/verify/e9997ce2-4d6c-4dcb-a8fe-cf59af9c61bd">
+    <img src="assets/linux-unhatched-certificate.png" width="700">
+  </a>
+</p>
+
 ---
 ## 📂 O que você encontrará aqui
 
