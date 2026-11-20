@@ -54,7 +54,10 @@ Aqui você encontrará exercícios, projetos e desafios desenvolvidos ao longo d
 - 🤝 Compartilhar meu aprendizado
 
 ---
+## 🏆 Certificações
 
+- **Linux Unhatched** — Cisco Networking Academy
+---
 ## 📂 O que você encontrará aqui
 
 - 📖 Exercícios e desafios
